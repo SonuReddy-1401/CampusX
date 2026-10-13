@@ -1,4 +1,6 @@
-# Hindi-Language Data Science Courses - Comparison Report
+# Best data science courses in Hindi (2026)
+
+## Hindi-Language Data Science Courses - Comparison Report
 
 ## 1. Markdown Table
 
